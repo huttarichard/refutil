@@ -23,12 +23,12 @@ to prevent panicking.
 Installation is available with `go get` command
 
 ```bash
-go get -u  https://github.com/coinfinitygroup/refutil
+go get -u  https://github.com/huttarichard/refutil
 ```
 
 ## GoDoc
 
-Complete documentation can be found [http://godoc.org/github.com/coinfinitygroup/refutil](http://godoc.org/github.com/coinfinitygroup/refutil)
+Complete documentation can be found [http://godoc.org/github.com/huttarichard/refutil](http://godoc.org/github.com/huttarichard/refutil)
 
 ## Few examples from `refutil` package
 

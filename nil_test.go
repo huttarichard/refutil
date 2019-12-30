@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/coinfinitygroup/refutil/test"
+	"github.com/huttarichard/refutil/test"
 )
 
 func TestNil(t *testing.T) {

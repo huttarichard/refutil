@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/coinfinitygroup/refutil/test"
+	"github.com/huttarichard/refutil/test"
 )
 
 type zeroerTest struct {
